@@ -28,8 +28,8 @@ Python · Pandas · NumPy · Jupyter Notebook
 ## Key Finding
 > Discovered X mismatched rows where TotalPrice did not align with 
 > Quantity × UnitPrice — flagged for business review before analysis.
->
-> ## Key Findings
+
+## Key Findings
 - Zero negative values found in Quantity and UnitPrice — 
   no corrupt transaction records
 - Zero price mismatches detected — TotalPrice consistently 
